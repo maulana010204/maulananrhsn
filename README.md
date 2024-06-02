@@ -5,6 +5,7 @@
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
+            background-color: gray;
         }
     </style>
 </head>
